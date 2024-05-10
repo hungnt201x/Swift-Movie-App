@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import Foundation
 import ObjectMapper
 
@@ -23,13 +22,3 @@ class MovieDetail: Mappable {
         overview <- map["overview"]
     }
 }
-=======
-//
-//  Movie Detail.swift
-//  movie_app
-//
-//  Created by hungnt1 on 10/05/2024.
-//
-
-import Foundation
->>>>>>> main

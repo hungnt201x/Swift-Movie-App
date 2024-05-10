@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import Foundation
 import ObjectMapper
 
@@ -17,14 +16,3 @@ class Movie: Mappable {
         releaseDate <- map["release_date"]
     }
 }
-
-=======
-//
-//  Movie.swift
-//  movie_app
-//
-//  Created by hungnt1 on 07/05/2024.
-//
-
-import Foundation
->>>>>>> main
