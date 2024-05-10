@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import Foundation
 import ObjectMapper
 
@@ -14,3 +15,13 @@ class Genre: Mappable {
         name <- map["name"]
     }
 }
+=======
+//
+//  Genre.swift
+//  movie_app
+//
+//  Created by hungnt1 on 10/05/2024.
+//
+
+import Foundation
+>>>>>>> main
