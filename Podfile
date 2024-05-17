@@ -6,6 +6,8 @@ target 'movie_app' do
   use_frameworks!
 pod 'Alamofire'
 pod 'ObjectMapper'
+pod 'SDWebImage', :modular_headers => true
+pod 'Cosmos', '~> 25.0'
 
   # Pods for movie_app
 
