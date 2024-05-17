@@ -162,7 +162,7 @@
 			isa = PBXGroup;
 			children = (
 				82D6D3D72BF678AA00AEA611 /* Database */,
-				82BC6EEE2BF48BB200A45E25 /* Screen */,
+				82BC6EEE2BF48BB200A45E25 /* Screens */,
 				826F56812BF3D6E300968902 /* Extensions */,
 				828E2F6B2BEEB51900B56A96 /* Configs */,
 				821E6A172BEDD5E800868672 /* Network */,
@@ -194,13 +194,13 @@
 			path = Configs;
 			sourceTree = "<group>";
 		};
-		82BC6EEE2BF48BB200A45E25 /* Screen */ = {
+		82BC6EEE2BF48BB200A45E25 /* Screens */ = {
 			isa = PBXGroup;
 			children = (
 				82BC6EF02BF48BCD00A45E25 /* MovieDetail */,
 				82BC6EEF2BF48BC800A45E25 /* Home */,
 			);
-			path = Screen;
+			path = Screens;
 			sourceTree = "<group>";
 		};
 		82BC6EEF2BF48BC800A45E25 /* Home */ = {
